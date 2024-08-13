@@ -1,0 +1,74 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #141414;
+}
+
+.portifolio {
+    background-color: #1F1F1F;
+    color: white;
+    text-align: center;
+    max-width: 400px;
+    margin: 200px auto 0;
+    border-radius: 5%;
+    padding: 20px 10px 62px; 
+}
+
+.imag {
+    width: 100%;
+}
+
+.imag h2 {
+    margin-top: 20px;
+}
+
+.imag img {
+    text-align: center;
+    border-radius: 50%;
+    width: 25%;
+}
+
+.cidade {
+    color: #87D019;
+    font-size: 14px;
+}
+
+.pequeno-texto {
+    margin-top: 35px;
+}
+
+.pequeno-texto h2 {
+    font-size: 15px;
+    text-align: center;
+}
+
+.pequeno-texto ul {
+    margin-top: 10px;
+    list-style: none;
+    text-align: center;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    width: 74%;
+    height: 44px;
+    margin-top: 22px;
+    border-radius: 8%;
+    border: none;
+    cursor: pointer; 
+}
+
+a{
+    background-color: #87D019;
+}
+
+button:hover {
+    background-color: greenyellow;
+    color: black;
+}

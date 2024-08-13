@@ -1,0 +1,9 @@
+@media(max-width: 375px){
+    .portifolio{
+        max-width: 260px;
+        margin: 70px auto 0;
+        padding: 20px 10px 22px; 
+    }
+
+   
+}
