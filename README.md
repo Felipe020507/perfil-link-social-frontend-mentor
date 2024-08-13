@@ -6,6 +6,7 @@ Neste projeto, você construirá um perfil simples para compartilhar seus links 
 
 ## Tecnologias Utilizadas
 HTML5: Para a estruturação do conteúdo.
+<br>
 CSS3: Para a estilização e layout.
 
 ## Funcionalidades
